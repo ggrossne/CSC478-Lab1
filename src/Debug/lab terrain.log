@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(46,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(50,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(190,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(386,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(389,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(420,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\src\main.cpp(421,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  lab terrain.vcxproj -> C:\Users\garre\Desktop\CSC 478\CSC478-Lab1\Debug\lab terrain.exe
